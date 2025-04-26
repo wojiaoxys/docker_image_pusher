@@ -1,4 +1,4 @@
-nginx
+nginx:1.28.0
 vitotp/centos7.6
 vitamojo/mysql8
 zareefza/redis6
