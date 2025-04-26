@@ -1,4 +1,4 @@
 nginx:1.28.0
 vitotp/centos7.6
 vitamojo/mysql8:latest
-zareefza/redis:7.2.8
+redis:7.4.3
