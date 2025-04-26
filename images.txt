@@ -1,2 +1,4 @@
 nginx:1.7.3
 cnetos:7.6
+mysql:8.0.24
+redis:6.2.7
