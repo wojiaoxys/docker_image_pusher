@@ -2,3 +2,5 @@ nginx:1.28.0
 vitotp/centos7.6
 vitamojo/mysql8:latest
 redis:7.4.3
+portainer/portainer:latest
+
